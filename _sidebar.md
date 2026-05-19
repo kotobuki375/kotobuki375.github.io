@@ -1,8 +1,9 @@
 * **🏠 Home**
-* [個人主頁與履歷](README)
+  * [个人主页与履历](README.md)
 
-* **🚀 Research & Projects (CV項目)**
-* 
+* **🚀 Research & Projects**
+  * [数据科学与大模型原理](README.md)
+  * [海洋智能时代与遥感技术](README.md)
 
-* **💻 Competitive Programming (算法題解)**
-* [AtCoder ABC190F - 全排列的逆序對遞推](Atcoder/abc190F.md)
+* **💻 Competitive Programming**
+  * [AtCoder ABC190F - 全排列的逆序对递推](Atcoder/abc190F.md)
