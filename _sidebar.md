@@ -7,3 +7,4 @@
 
 * **💻 Competitive Programming**
   * [AtCoder ABC190F - 全排列的逆序对递推](Atcoder/abc190F.md)
+  * [AcWing 789 - 数的范围](AcWing789.md)
