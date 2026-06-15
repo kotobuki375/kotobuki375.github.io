@@ -27,44 +27,44 @@
 
 ---
 
-## 🇯🇵 自己紹介 / 研究テーマ
+## 🇯🇵 自己紹介 / 研究関心
 
-こんにちは！算法（アルゴリズム）競プロと卓球をこよなく愛する、中国出身の女子学生 **kotobuki375** です。
+中国出身の学生 kotobuki375 です。競技プログラミング、アルゴリズム、コンピュータビジョンに関心があります。卓球も続けています。
 
-このウェブログは、私の日々の**アルゴリズム題解（AtCoder等）**のストック、および**研究プロジェクトの進捗**を記録する「開発基地」です。
+このページでは、AtCoder などのアルゴリズム学習記録や、技術プロジェクト・研究関連の取り組みを整理しています。
 
-### 🧬 研究テーマ
-C++を用いた高速かつ高信頼性なコンピュータビジョンシステムの構築に深く興味を寄せています：
-* **C++ベースの人体姿勢センシング（Human Pose Perception）**
-* **時系列データの平滑化・安定化（Temporal Stabilization）**
-* **リアルタイムシステムの実装（Real-time System Implementation）**
+### 🧬 研究関心
+C++を用いたコンピュータビジョンの実装、特にリアルタイム人体姿勢推定、時系列安定化、実時間システムの実装に関心があります。
 
-### 🏆 タイムラインと強み
-* **C++とアルゴリズムのバックグラウンド**：小学5年生（11歳）からC++のプログラミングを学び始めました。高校時代には、**中国情報オリンピック（NOIP / OI）山東省リーグにて一等賞に準ずる二等賞（高2）**、および三等賞（中2）を受賞しました。
-* **飛び級での数学モデリング実績**：高校2年生の時、母校（山東師範大学附属高校）の選抜チームとして、**「山東省大学生数学モデリングコンテスト」に飛び級で参加し、最高賞である省一等賞を受賞**。チーム内では、コアアルゴリズムの実装と学術論文のメイン執筆を統括しました。
-* **日本語への情熱とユニークなエピソード**：日本の声優文化と日本語に強い関心を持っています。中学3年生の時、声優の**寿美菜子さん**へ宛てて純日本語で執筆した結婚お祝いメールが、彼女の公式ラジオ番組『ラフラフ』にて**奇跡的に採用され、本人の声で全網朗読される**という素晴らしい経験をしました。
-* **高いメンタルタフネス**：高校3年生の受験期にも卓球のトレーニングを継続し、**済南市学生女子卓球大会で第3位**に入賞。本番の大舞台（高考など）で実力を120%発揮できる「フロー状態」への入り方と、研究に必要な強靭な体力を備えています。
+- C++ベースの人体姿勢推定システム
+- 人体姿勢推定における時系列安定化
+- リアルタイム視覚システムの実装
+
+### 🏆 学習背景と経験
+- C++とアルゴリズムの学習経験：小学生の頃から C++ を学び始め、中学・高校を通してアルゴリズム学習を続けてきました。高校では NOIP 山東省リーグで 2等賞、中学では 3等賞 を受賞しました。
+- 数学モデリングの経験：高校在学中、学校の選抜チームの一員として山東省大学生数学モデリングコンテストに参加し、省1等賞 を受賞しました。チームでは主にアルゴリズム実装と論文原稿の作成を担当しました。
+- 日本語への関心：日本語には以前から関心があり、継続して学んでいます。中学生の頃に書いた日本語のメッセージが、日本のラジオ番組で紹介されたことがあります。
+- 卓球：高校時代も継続して卓球に取り組み、最終学年には済南市の学生卓球大会で 3位 に入賞しました。
 
 ---
 
 ## 🇬🇧 About Me / Research Interests
 
-Hi there! I am **kotobuki375**, a female tech enthusiast from China who is deeply passionate about competitive programming, algorithms, and table tennis. 
+I am **kotobuki_**, a student from China interested in competitive programming, algorithms, and computer vision. I also enjoy table tennis.
 
-This technical blog is my personal base for logging **daily algorithmic problem-solving (AtCoder / AcWing)** and showcasing my **research projects**.
+This website is a place where I organize my **algorithm notes (AtCoder / AcWing)** and document my technical and **research-related projects**.
 
 ### 🧬 Research & Engineering Interests
-I dedicate myself to building high-performance, industry-level computer vision and software deployment systems:
-* **C++ Based Human Pose Estimation & Perception**
-* **Temporal Stabilization & Sequential Data Smoothing**
-* **Real-time Embedded System Implementation**
+I am particularly interested in computer vision systems, especially real-time human pose estimation, temporal stabilization, and C++ implementation.
+* **C++-based human pose estimation and perception systems**
+* **Temporal stabilization for low-latency pose estimation**
+* **Real-time system implementation**
 
-### 🏆 Honors & Key Milestones
-* **Long-term C++ Coding Background**: Started learning C++ in the 5th grade of primary school (age 11). Won the **2nd Prize in the National Olympiad in Informatics in Provinces (NOIP / OI) - Shandong League** during my sophomore year in high school, and the 3rd Prize in middle school.
-* **Mathematical Modeling Genius**: In high school, I skipped grades to participate in the **Shandong Undergraduate Mathematical Modeling Competition** representing my high school, and **won the provincial 1st Prize**. I acted as the core developer responsible for the algorithm implementation and authored the main manuscript of our research paper.
-* **Language Proficiency & Cultural Connection**: Deeply interested in Japanese language and anime culture. In the 9th grade, a handwritten Japanese congratulatory letter I emailed to the famous voice actress **Minako Kotobuki** was selected and **read aloud by her in person on her official radio show *Laugh Rough***.
-* **High-Pressure Performer & Athletic Discipline**: Won **3rd Place in the Jinan Campus Female Table Tennis Tournament** during my final year of high school. I possess excellent mental toughness, the ability to trigger the *Flow State* under intense pressure, and solid physical stamina for long-term academic research.
-
+### 🏆 Academic Background and Experience
+* **C++ and algorithmic background**: I started learning C++ in primary school and continued studying algorithms through middle school and high school. I received **the 2nd Prize in the NOIP Shandong League in high school and the 3rd Prize** in middle school.
+* **Mathematical modeling experience**:In high school, I participated in the Shandong Undergraduate Mathematical Modeling Competition as part of a selected team from my school and received **the provincial 1st Prize**. In the team, I was mainly responsible for algorithm implementation and drafting the main part of the paper.
+* **Interest in Japanese language**: I have been interested in Japanese for many years. One memorable experience was that a Japanese message I wrote in junior high school was selected and introduced on a radio program.
+* **Table tennis**:  I continued table tennis training during high school and won **3rd place** in a campus tournament in Jinan during my final year.
 ---
 
 ## 📊 My Competitive Programming Stats (Live)
