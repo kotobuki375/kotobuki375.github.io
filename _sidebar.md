@@ -10,5 +10,5 @@
   * [AcWing 789 - 数的范围](Atcoder/AcWing789.md)
 
 * **# 📐 From Math to Code** - Notes on linear algebra, geometry, filtering, and their C++ implementations for computer vision and robot perception.
-  * [1.方程=几何对象](From_Math_to_Code/Linear Algebra1.md)
+  * [1.方程=几何对象](From_Math_to_Code/Linear_Algebra1.md)
  
